@@ -106,14 +106,3 @@ If GPU detection fails, call `utils.print_gpu_debug_info()` from a Python REPL t
 
 **Output location**
 - Saved images and metadata JSON files go to `generated/<YYYY-MM-DD>/`.
-
----
-
-**Contributing**
-- Feel free to open issues or PRs. Keep changes focused and test locally.
-
-**License**
-- This repository does not include a license file; add one if you plan to share the project publicly.
-
----
-
