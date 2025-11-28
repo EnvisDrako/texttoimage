@@ -117,4 +117,3 @@ If GPU detection fails, call `utils.print_gpu_debug_info()` from a Python REPL t
 
 ---
 
-If you want, I can also add a minimal `requirements.txt` example or a GitHub Actions workflow to run the app. Want me to add that?
