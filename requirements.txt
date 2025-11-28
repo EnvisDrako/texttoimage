@@ -1,0 +1,13 @@
+streamlit
+torch>=2.0.0
+torchvision
+torchaudio
+diffusers[torch]
+transformers
+accelerate
+safetensors
+xformers
+pillow
+python-dotenv
+tqdm
+psutil
